@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hntdienit&langs_count=8)](https://github.com/hntdienit/hntdienit)
 
 
-[![willianrod's wakatime stats](https://hntdienit.vercel.app/api/wakatime?username=hntdienit)](https://github.com/hntdienit/hntdienit)
+<!-- [![willianrod's wakatime stats](https://hntdienit.vercel.app/api/wakatime?username=hntdienit)](https://github.com/hntdienit/hntdienit) -->
 
 
 
